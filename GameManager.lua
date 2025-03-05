@@ -32,7 +32,3 @@ function callback(event)
         emergency()
     end
 end
-
-color = {0, 0, 0} 
-step = 0.05 
-index = 1
